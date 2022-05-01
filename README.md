@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/mohamed-m-khallaf-bds-mjdf-hit/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+ ![MKIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdkhallaf&show_icons=true&theme=highcontrast)
 <!---
 mohdkhallaf/mohdkhallaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
