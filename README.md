@@ -7,15 +7,22 @@
 - 💞️ I’m looking to collaborate on Data Analysis and what about it
 - 📫 How to reach me --->
 <a href="https://www.instagram.com/meedakh/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://twitter.com/meedakh">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-m-khallaf-bds-mjdf-hit/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="kwikmatt | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://www.youtube.com/@meedakh/">
+  <img align="left" alt="kwikmatt | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+<a href="https://www.facebook.com/Mohd.Khallaf">
+  <img align="left" alt="kwikmatt | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+<a href="https://stackoverflow.com/users/14435860/mohamed-m-khallaf">
+  <img align="left" alt="kwikmatt | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
  ![MKIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdkhallaf&show_icons=true&theme=highcontrast)
 <!---
 mohdkhallaf/mohdkhallaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
