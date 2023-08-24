@@ -23,7 +23,6 @@
   </a>
 <a href="https://stackoverflow.com/users/14435860/mohamed-m-khallaf">
   <img align="left" alt="kwikmatt | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
- ![MKIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdkhallaf&show_icons=true&theme=highcontrast)
 <!---
 mohdkhallaf/mohdkhallaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
