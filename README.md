@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Data Analysis and what about it
 - 📫 How to reach me --->
 <a href="https://www.instagram.com/meedakh/">
-  <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" />
+  <img align="left" alt="kwikmatt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/meedakh">
   <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
