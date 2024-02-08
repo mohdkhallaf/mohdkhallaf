@@ -3,19 +3,17 @@
 - 👋 Hi
 - 👀 I’m interested in Working as Data Miner.
 - 🥸 I have "Data Analysis Certificate" from Udacity
-- 🌱 I’m currently learning Google Analyis, IBM Analysis, SAS Programing Certificates
+- 🌱 I’m currently learning Google Analyis Certificate, IBM Analysis Certificate, Google Advanced Data Analysis Certificate
 - 💞️ I’m looking to collaborate on Data Analysis and what about it
 - 📫 How to reach me --->
-<a href="https://www.instagram.com/meedakh/">
-  <img align="left" alt="kwikmatt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/meedakh">
+  
+<a href="https://twitter.com/xXMKIIIXx">
   <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-m-khallaf-bds-mjdf-hit/">
   <img align="left" alt="kwikmatt | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/@meedakh/">
+<a href="https://www.youtube.com/meedakh/">
   <img align="left" alt="kwikmatt | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
 <a href="https://www.facebook.com/Mohd.Khallaf">
