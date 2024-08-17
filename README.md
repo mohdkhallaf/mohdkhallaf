@@ -1,9 +1,9 @@
 - # Mohamed M. Khallaf
 - ## Data Scientist and Business Analyst
 - 👋 Hi
-- 👀 I’m interested in Working as Data Miner.
-- 🥸 I have "Data Analysis Certificate" from Udacity
-- 🌱 I’m currently learning Google Analyis Certificate, IBM Analysis Certificate, Google Advanced Data Analysis Certificate
+- 👀 I’m interested in Working as a Data Analyst.
+- 🥸 I have a "Data Analysis Certificate" from Udacity and a "Google Data analysis Certificate"
+- 🌱 I’m currently learning Google Analysis Certificate, IBM Analysis Certificate, Google Advanced Data Analysis Certificate
 - 💞️ I’m looking to collaborate on Data Analysis and what about it
 - 📫 How to reach me --->
   
