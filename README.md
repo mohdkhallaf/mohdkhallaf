@@ -2,7 +2,7 @@
 - ## Data Analyst
 - 👋 Hi
 - 👀 I’m interested in working as a Data Analyst.
-- 🥸 I have a "Data Analysis Certificate" from Udacity and a "Google Data analysis Certificate"
+- 🥸 I have a "Data Analysis Certificate" from Udacity and a "Google Data Analysis Certificate"
 - 🌱 I’m currently learning IBM Analysis Certificate, Google Advanced Data Analysis Certificate
 - 💞️ I’m looking to collaborate on Data Analysis and what about it
 - 📫 How to reach me --->
@@ -10,7 +10,7 @@
 <a href="https://twitter.com/xXMKIIIXx">
   <img align="left" alt="kwikmatt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohamed-m-khallaf-bds-mjdf-hit/">
+<a href="https://www.linkedin.com/in/meedakh/">
   <img align="left" alt="kwikmatt | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/meedakh/">
